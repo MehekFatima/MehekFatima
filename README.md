@@ -118,3 +118,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=mehekfatima" alt="mehekfatima" />
   </a>
 </p>
+
+## ☕ Buy Me a Coffee
+
+If you like my work, consider supporting me here:
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-%23FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mehekf18x)
